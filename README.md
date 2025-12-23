@@ -1,6 +1,6 @@
 # Coursework Index (OSU) — through June 2024
 
-This repository indexes my OSU course assignments hosted in OSU GitHub organizations. Some links may be private to OSU org members. For public viewing, I can mirror selected work into this repo with summaries and sanitized snapshots.
+This repository indexes my OSU course assignments hosted in OSU GitHub organizations. Some links may be private to OSU org members. 
 
 ## Resume-ready summary
 - Built full-stack and client-side projects across web (HTML/CSS/JS), mobile (Android/Kotlin), and cloud (Node/Express, Terraform), with a focus on correctness, readability, and deployment.
@@ -52,8 +52,3 @@ Consider adding links to my public, in-range course repos:
 - [OSU-cs312-sp23-FinalProject](https://github.com/Randy-Osborn/OSU-cs312-sp23-FinalProject) — Terraform/HCL
 - [CS475](https://github.com/Randy-Osborn/CS475) — C++
 - [Landingpage](https://github.com/Randy-Osborn/Landingpage) — JavaScript
-- [codeproblems](https://github.com/Randy-Osborn/codeproblems) — C++
-
-## Notes
-- Scope limited to coursework through June 2024 per resume cutoff.
-- Please follow course policies when sharing code publicly.
